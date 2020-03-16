@@ -1,0 +1,24 @@
+{
+  "name": "filesize_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/porsh99/filesize_viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/porsh99/filesize_viewer/issues"
+  },
+  "homepage": "https://github.com/porsh99/filesize_viewer#readme",
+  "dependencies": {
+    "diskusage": "^1.1.3"
+  }
+}
